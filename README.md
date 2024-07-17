@@ -71,7 +71,7 @@ Contributions are what make the open source community such an amazing place to l
 Have a question or want to collaborate? Reach out to me:
 
 - **Email:** [soorajmurugaraj@gmail.com](soorajmurugaraj@gmail.com)
-- **GitHub:** [s](https://github.com/soorajdmg)
+- **GitHub:** https://github.com/soorajdmg
 
 ---
 
