@@ -76,5 +76,3 @@ Have a question or want to collaborate? Reach out to me:
 ---
 
 ⭐️ Don't forget to give a star if you like the project!
-
-![Flappy Bird Gameplay](path-to-second-screenshot.gif)
