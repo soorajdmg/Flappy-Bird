@@ -24,10 +24,10 @@ Welcome to Flappy Bird in Unity! This project is a recreation of the iconic Flap
 ## 🌟 Features
 
 - **Addictive Gameplay**: Easy to play, hard to master.  
-- **Smooth Animations**: Enjoy a seamless gaming experience.  
-- **Score Tracking**: Keep track of your high scores.  
-- **Game Over Screen**: Know when your game ends and start over.  
-- **Restart Functionality**: Quickly get back into the action.  
+- **Smooth Animations**: Enjoy a seamless gaming experience.
+- **Soothing Background Music**: Immerse yourself in the game with relaxing tunes.
+- **Engaging Audio Effects**: Stay hooked with dynamic sound effects.
+- **Score Tracking**: Keep track of your high scores.
 
 ## 🛠 Installation
 
@@ -55,6 +55,12 @@ Navigate your bird through the pipes and try to achieve the highest score possib
 ## 🕹 Controls
 
 - **Spacebar / Left Mouse Click / Touch Screen**: Flap the bird's wings to make it fly.
+- **Main Menu**:
+  - **Enter**: Start the game.
+  - **Esc**: Exit the game.
+- **Game Over**:
+  - **Enter**: Restart the game.
+  - **Esc**: Return to the main menu.
 
 ## 🤝 Contributing
 
