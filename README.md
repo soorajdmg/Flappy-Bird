@@ -1,7 +1,8 @@
 # 🐤 Flappy Bird in Unity
 
  
- ![Screenshot 2024-07-18 002304](https://github.com/user-attachments/assets/0eaf70f9-0f7e-4c60-8975-aaeac9440507)
+ ![Birdie Flap Gameplaygif](https://github.com/user-attachments/assets/d8db4ba8-1d12-4cdc-b595-40f039b08aa2)
+
 
 
 
